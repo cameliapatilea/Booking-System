@@ -1,0 +1,35 @@
+3
+3
+maria
+da
+ioana
+da
+george
+nu
+6
+5
+0 1
+scena
+New York
+2
+preot
+da
+preoteasa
+da
+5
+10
+1 0
+individuala
+Mexico City
+3
+andi
+nu
+maria
+da
+andrei
+da
+5
+1
+2 0
+scena
+Beijing
